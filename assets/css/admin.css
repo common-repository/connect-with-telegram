@@ -1,0 +1,17 @@
+.wrap.dimwwt label {
+  display: block;
+  margin: 15px 0;
+}
+
+.wrap.dimwwt label strong {
+  display: inline-block;
+  min-width: 280px;
+}
+.dimwwt-last-request {
+  background: #222 none repeat scroll 0 0;
+  color: #fff;
+  direction: ltr;
+  font-family: monospace;
+  height: 100px !important;
+  width: 100%;
+}

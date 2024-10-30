@@ -1,0 +1,808 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: a wp-master.ir project\n"
+"POT-Creation-Date: 2016-02-16 19:35+0330\n"
+"PO-Revision-Date: 2016-02-16 19:36+0330\n"
+"Last-Translator: Mr Shamloo <wp@wp-master.ir>\n"
+"Language-Team: wp-master.ir <wp@wp-master.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-dimwwt-admin-menu.php:8 inc/class-dimwwt-admin-menu.php:28
+#: index.php:93
+msgid "Connect With Telegram"
+msgstr "اتصال به تلگرام"
+
+#: inc/class-dimwwt-admin-menu.php:12
+msgid "Telegram Bot Token"
+msgstr "توکن ربات تلگرام"
+
+#: inc/class-dimwwt-admin-menu.php:12
+msgid "Botsaz Token"
+msgstr "توکن بات ساز"
+
+#: inc/class-dimwwt-admin-menu.php:24
+msgid "Saved"
+msgstr "ذخیره شد"
+
+#: inc/class-dimwwt-admin-menu.php:31
+msgid "Webhook Link"
+msgstr "لینک وب هوک شما"
+
+#: inc/class-dimwwt-admin-menu.php:40
+msgid "Mode"
+msgstr "حالت استفاده"
+
+#: inc/class-dimwwt-admin-menu.php:54
+msgid "Bot Welcome Message"
+msgstr "پیام خوش آمد گویی ربات"
+
+#: inc/class-dimwwt-admin-menu.php:58
+msgid "Bot Token"
+msgstr "توکن ربات"
+
+#: inc/class-dimwwt-admin-menu.php:62
+msgid "API URL"
+msgstr "آدرس API ربات"
+
+#: inc/class-dimwwt-admin-menu.php:66
+msgid "Posts per page"
+msgstr "تعداد نوشته قابل نمایش در نتیجه ها"
+
+#: inc/class-dimwwt-admin-menu.php:70
+msgid "Allowed Categories"
+msgstr "دسته های مورد استفاده در ربات"
+
+#: inc/class-dimwwt-admin-menu.php:96
+msgid "Shop Allowed Categories"
+msgstr "دسته های فروشگاهی مورد استفاده در ربات"
+
+#: inc/class-dimwwt-admin-menu.php:122
+msgid "Save"
+msgstr "ذخیره "
+
+#: inc/class-dimwwt-admin-menu.php:125
+msgid "Last Request"
+msgstr "آخرین درخواست"
+
+#: inc/class-dimwwt-admin-menu.php:129
+msgid "Last Log"
+msgstr "آخرین گزارش"
+
+#: inc/class-dimwwt-admin-menu.php:140
+msgid "Close"
+msgstr "بستن"
+
+#: inc/class-dimwwt-listener.php:147
+msgid "Menu"
+msgstr "منوی اصلی"
+
+#: inc/class-dimwwt-listener.php:147 inc/class-dimwwt-listener.php:297
+msgid "Last Posts"
+msgstr "آخرین مطالب"
+
+#: inc/class-dimwwt-listener.php:147 inc/class-dimwwt-listener.php:166
+#: inc/class-dimwwt-listener.php:335 inc/class-dimwwt-listener.php:338
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/class-dimwwt-listener.php:154 inc/class-dimwwt-listener.php:314
+msgid "Last Products"
+msgstr "آخرین محصولات"
+
+#: inc/class-dimwwt-listener.php:155 inc/class-dimwwt-listener.php:191
+#: inc/class-dimwwt-listener.php:340 inc/class-dimwwt-listener.php:343
+msgid "Search Products"
+msgstr "جستجو در محصولات"
+
+#: inc/class-dimwwt-listener.php:181 inc/class-dimwwt-listener.php:206
+#: inc/class-dimwwt-listener.php:236 inc/class-dimwwt-listener.php:288
+msgid "No Results :( "
+msgstr "فاقد نتیجه :("
+
+#: inc/class-dimwwt-listener.php:197
+msgid "Search Resuls for "
+msgstr "جستجو برای:"
+
+#: inc/class-dimwwt-listener.php:223 inc/class-dimwwt-listener.php:270
+#: inc/class-dimwwt-listener.php:306 inc/class-dimwwt-listener.php:327
+msgid "All Categories"
+msgstr "همه دسته‌ها"
+
+#: inc/class-dimwwt-listener.php:228
+msgid "Lasts From "
+msgstr "آخرین ها از "
+
+#: inc/class-dimwwt-listener.php:280
+msgid "Lasts Products "
+msgstr "آخرین ها از "
+
+#: inc/class-dimwwt-listener.php:299 inc/class-dimwwt-listener.php:320
+msgid "Please select a category"
+msgstr "لطفا دسته ای را انتخاب کنید"
+
+#: inc/class-dimwwt-listener.php:337 inc/class-dimwwt-listener.php:342
+msgid "Enter Keyword"
+msgstr "کلمه مورد نظر را وارد کنید"
+
+#: index.php:94
+msgid "Omid Shamloo"
+msgstr "امید شاملو"
+
+#: index.php:95
+msgid ""
+"Connect Your Site To Telegram,user can search and view your last posts / "
+"products from telegram"
+msgstr ""
+"اتصال سایت شما به تلگرام،کاربرها را قادر می سازد تا به آخرین مطالب شما / "
+"دستها و محصولاتتان از طریق تلگرام دسترسی داشته باشند"
+
+#~ msgid "Bot Token(Telegram) OR Bot secret key(Others)"
+#~ msgstr "توکن ربات(تلگرام) یا کد(سرویسهای دیگر)"
+
+#~ msgid "Last Logs"
+#~ msgstr "آخرین گزارش"
+
+#~ msgid "dimwwt Telegram Options"
+#~ msgstr "تنظیمات تلگرام dimwwt "
+
+#~ msgid "Dig into My Website With Telegram"
+#~ msgstr "کاوش در سایت با استفاده از تلگرام"
+
+#~ msgid "Custom Bid Payment"
+#~ msgstr "پرداخت پیشنهادی دلخواه"
+
+#~ msgid "Custom Bid"
+#~ msgstr "پیشنهاد دلخواه"
+
+#~ msgid "Enable Custom Bid"
+#~ msgstr "فعال کردن پیشنهاد دلخواه"
+
+#~ msgid "Price"
+#~ msgstr "قیمت"
+
+#~ msgid "Real Price(Toman)"
+#~ msgstr "قیمت اصلی(تومان)"
+
+#~ msgid "Custom Bid Payment With Timer"
+#~ msgstr "پرداخت پیشنهادی دلخواه به همراه تایمر"
+
+#~ msgid "Real Price"
+#~ msgstr "قیمت اصلی(تومان)"
+
+#~ msgid "More"
+#~ msgstr "بیشتر"
+
+#~ msgid "Please fill all fields"
+#~ msgstr "لطفا همه فیلدها را پر نمایید"
+
+#~ msgid "Please enter a comment"
+#~ msgstr "لطفا نظرتان را بنویسید"
+
+#~ msgid "Please Enter captcha"
+#~ msgstr "لطفا کد امنیتی را صحیح وارد کنید"
+
+#~ msgid "Your comment submitted."
+#~ msgstr "نظر شما ثبت شد."
+
+#~ msgid "Problem , try again."
+#~ msgstr "مشکلی پیش آمده،مجدد تلاش کنید."
+
+#~ msgid "login ok , you are redirecting ..."
+#~ msgstr "ورود با موفقیت انجام شد،در حال انتقال..."
+
+#~ msgid "Please Login First"
+#~ msgstr "لطفا ابتدا وارد سیستم شوید"
+
+#~ msgid "Please enter your name"
+#~ msgstr "لطفا نام خود را وارد کنید"
+
+#~ msgid "Please enter ad title"
+#~ msgstr "لطفا عنوان تبلیغ را وارد کنید"
+
+#~ msgid "Please enter ad describtion"
+#~ msgstr "لطفا توضیحات تبلیغ را وارد کنید."
+
+#~ msgid "Please Accept rules"
+#~ msgstr "لطفا قوانین را بپذیرید"
+
+#~ msgid "only GIT and JPEG and PNG files are valid"
+#~ msgstr "فقط فایلهای gifوjpgوPng پذیرفته می شوند."
+
+#~ msgid "Plan you selected does not valid"
+#~ msgstr "پلان انتخابی شما معتبر نمی باشد"
+
+#~ msgid "Your ad submitted."
+#~ msgstr "تبلیغ شما ثبت شد و پس از تایید نمایش داده خواهد شد."
+
+#~ msgid "You are redirecting to payment , please wait..."
+#~ msgstr "درحال انتقال برای پرداخت،لطفا صبر کنید..."
+
+#~ msgid "Agahi footer"
+#~ msgstr "فوتر سیستم نیازمندیها"
+
+#~ msgid "Show widgets on footer , 4 in one"
+#~ msgstr "نمایش ابزارکها در فوتر،4 ابزارک"
+
+#~ msgid "Edit ad"
+#~ msgstr "ویرایش آگهی"
+
+#~ msgid "No content found"
+#~ msgstr "محتوایی یافت نشد"
+
+#~ msgid "General Settings"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "Payment settings"
+#~ msgstr "تنظیمات پرداخت"
+
+#~ msgid "general"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "payments"
+#~ msgstr "پرداخت ها"
+
+#~ msgid "plans"
+#~ msgstr "پلن ها"
+
+#~ msgid "Payments"
+#~ msgstr "پرداخت ها"
+
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "wp-agahi Options"
+#~ msgstr "تنظیمات نیازمندی ها"
+
+#~ msgid "wp-agahi options updated."
+#~ msgstr "تنظیمات به روز شد"
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Payments history"
+#~ msgstr "تاریخچه پرداخت ها"
+
+#~ msgid "Plans"
+#~ msgstr "پلن ها"
+
+#~ msgid "Add new plan"
+#~ msgstr "افزودن پلان جدید"
+
+#~ msgid "posts per page"
+#~ msgstr "تعدادآگهی ها در هر صفحه"
+
+#~ msgid "url to ad submit rules"
+#~ msgstr "آدرس قوانین ثبت آگهی"
+
+#~ msgid "for view on ad submit"
+#~ msgstr "برای نمایش به هنگام ثبت آگهی"
+
+#~ msgid "Page of wp agahi"
+#~ msgstr "برگه نیازمندی ها"
+
+#~ msgid "page that wp agahi shortcode inserted"
+#~ msgstr "برگه ای که کدکوتاه نیازمندی ها در آن قرار دارد"
+
+#~ msgid "Ad Submit Method"
+#~ msgstr "روش ثبت آگهی"
+
+#~ msgid "User Must login"
+#~ msgstr "کاربر باید وارد شود"
+
+#~ msgid "User with out register can submit ads"
+#~ msgstr "کاربر بدون وارد شدن می تواند آگهی خود را ثبت کند"
+
+#~ msgid "Last ads"
+#~ msgstr "آخرین نیازمندی ها"
+
+#~ msgid "Display last ads from agahi plugin"
+#~ msgstr "نمایش آخرین آگهی ها از پلاگین نیازمندی ها"
+
+#~ msgid "place ad"
+#~ msgstr "ثبت آگهی"
+
+#~ msgid "last ads"
+#~ msgstr "آخرین نیازمندی ها"
+
+#~ msgid "Title:"
+#~ msgstr "عنوان:"
+
+#~ msgid "ad number to show:"
+#~ msgstr "تعداد آگهی برای نمایش:"
+
+#~ msgid "ads Adder Details"
+#~ msgstr "مشخصات اضافه کننده آگهی"
+
+#~ msgid "Ads adder name"
+#~ msgstr "نام آگهی دهنده"
+
+#~ msgid "Adder tels"
+#~ msgstr "تلفن های آگهی دهنده"
+
+#~ msgid "adder Address"
+#~ msgstr "آدرس آگهی دهنده"
+
+#~ msgid "Adder Email"
+#~ msgstr "ایمیل آگهی دهنده"
+
+#~ msgid "Adder Site"
+#~ msgstr "وب سایت آگهی دهنده"
+
+#~ msgid "Adder Yahoo id"
+#~ msgstr "آی دی یاهو"
+
+#~ msgid "No Item Found"
+#~ msgstr "موردی یافت نشد"
+
+#~ msgid "id"
+#~ msgstr "شناسه"
+
+#~ msgid "bank"
+#~ msgstr "بانک"
+
+#~ msgid "plan name"
+#~ msgstr "پلان"
+
+#~ msgid "plan price"
+#~ msgstr "قیمت"
+
+#~ msgid "days"
+#~ msgstr "مدت (روز)"
+
+#~ msgid "pay date"
+#~ msgstr "تاریخ"
+
+#~ msgid "completition date"
+#~ msgstr "تاریخ تکمیل"
+
+#~ msgid "ad"
+#~ msgstr "آگهی"
+
+#~ msgid "status"
+#~ msgstr "وضعیت"
+
+#~ msgid "log msg"
+#~ msgstr "لاگ"
+
+#~ msgid "name"
+#~ msgstr "نام"
+
+#~ msgid "desc"
+#~ msgstr "توضیحات"
+
+#~ msgid "price"
+#~ msgstr "قیمت"
+
+#~ msgid "day"
+#~ msgstr "روز"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "Plan Inserted"
+#~ msgstr "اضافه گردید"
+
+#~ msgid "Problem Try again"
+#~ msgstr "مشکلی پیش آمده،مجدد تلاش کنید."
+
+#~ msgid "describtion"
+#~ msgstr "توضیحات"
+
+#~ msgid "submit"
+#~ msgstr "ثبت"
+
+#~ msgid "Plan Deleted"
+#~ msgstr "حذف شد"
+
+#~ msgid "Success"
+#~ msgstr "موفقیت"
+
+#~ msgid "Error"
+#~ msgstr "خطا"
+
+#~ msgid "Invalid Payment"
+#~ msgstr "پرداخت نا معتبر"
+
+#~ msgid "Invalid Payment , to return back click here"
+#~ msgstr "پرداخت نامعتبر،برای بازگشت کلیک کنید"
+
+#~ msgid "All Rights Reserved For"
+#~ msgstr "تمای حقوق محفوظ است،برای"
+
+#~ msgid "Lasts"
+#~ msgstr "آخرین ها"
+
+#~ msgid "Populars"
+#~ msgstr "پربازدیدترین ها"
+
+#~ msgid "Sign in"
+#~ msgstr "ورود به سیستم"
+
+#~ msgid "User name"
+#~ msgstr "نام کاربری"
+
+#~ msgid "Password"
+#~ msgstr "رمز عبور"
+
+#~ msgid "Send"
+#~ msgstr "ارسال"
+
+#~ msgid "Foreget Password?"
+#~ msgstr "رمزتان را فراموش کرده اید؟"
+
+#~ msgid "Processing"
+#~ msgstr "در حال عملیات..."
+
+#~ msgid "ads home page"
+#~ msgstr "صفحه اول آگهی ها"
+
+#~ msgid "User Menu"
+#~ msgstr "منوی کاربری"
+
+#~ msgid "Place ad"
+#~ msgstr "ثبت آگهی"
+
+#~ msgid "Submit history"
+#~ msgstr "تاریخچه"
+
+#~ msgid "Logout"
+#~ msgstr "خروج"
+
+#~ msgid "Search ads"
+#~ msgstr "جستجوی آگهی"
+
+#~ msgid "no ads found"
+#~ msgstr "هیچ آگهی ای موجود نیست"
+
+#~ msgid "adder"
+#~ msgstr "آگهی دهنده"
+
+#~ msgid "Phone"
+#~ msgstr "تلفن"
+
+#~ msgid "Address"
+#~ msgstr "آدرس"
+
+#~ msgid "Email"
+#~ msgstr "ایمیل"
+
+#~ msgid "Web Site"
+#~ msgstr "وب سایت"
+
+#~ msgid "Visit"
+#~ msgstr "بازدید"
+
+#~ msgid "Chat"
+#~ msgstr "چت"
+
+#~ msgid "(toman)"
+#~ msgstr "(تومان)"
+
+#~ msgid "User Reviews"
+#~ msgstr "نظرات"
+
+#~ msgid "Leave Comment"
+#~ msgstr "ارسال نظر"
+
+#~ msgid "Comment text just is needed"
+#~ msgstr "فقط متن نظر ضروریست."
+
+#~ msgid "Enter Email,private"
+#~ msgstr "ایمیل،منتشر نخواهد شد"
+
+#~ msgid "Enter Mobile,private"
+#~ msgstr "موبایل،منتشر نخواهد شد"
+
+#~ msgid "Enter Name"
+#~ msgstr "نام خود را وارد کنید"
+
+#~ msgid "Enter  Message"
+#~ msgstr "متن پیام را در اینجا وارد کنید."
+
+#~ msgid "Submit"
+#~ msgstr "ارسال"
+
+#~ msgid "Please Enter your email below"
+#~ msgstr "لطفا ایمیل خود را در کادر زیر وارد نمایید"
+
+#~ msgid "select category:"
+#~ msgstr "دسته را انتخاب کنید:"
+
+#~ msgid "Ad title:"
+#~ msgstr "عنوان تبلیغ:"
+
+#~ msgid "your name:"
+#~ msgstr "نام شما:"
+
+#~ msgid "name is required"
+#~ msgstr "نام ضروری ست"
+
+#~ msgid "your phones:"
+#~ msgstr "تلفن:"
+
+#~ msgid "More details"
+#~ msgstr "جزئیات بیشتر"
+
+#~ msgid "your Address:"
+#~ msgstr "آدرس:"
+
+#~ msgid "your website:"
+#~ msgstr "وب سایت:"
+
+#~ msgid "your email:"
+#~ msgstr "ایمیل:"
+
+#~ msgid "Ad describtion:"
+#~ msgstr "توضیحات تبلیغ:"
+
+#~ msgid "Ad tags:"
+#~ msgstr "برچسبها:"
+
+#~ msgid "Price:"
+#~ msgstr "قیمت:"
+
+#~ msgid "free"
+#~ msgstr "رایگان"
+
+#~ msgid "fixed"
+#~ msgstr "مقطوع"
+
+#~ msgid "tavafoghi"
+#~ msgstr "توافقی"
+
+#~ msgid "Enter price"
+#~ msgstr "قیمت را وارد کنید"
+
+#~ msgid "Plan:"
+#~ msgstr "پلان:"
+
+#~ msgid "Ad Image:"
+#~ msgstr "تصویر تبلیغ:"
+
+#~ msgid "you must accept rules before continue"
+#~ msgstr "قبل از ادامه کار پذیرش قوانین ضرویست"
+
+#~ msgid "I accept rules"
+#~ msgstr "قوانین را می پذیرم"
+
+#~ msgid "Save Ad"
+#~ msgstr "ذخیره"
+
+#~ msgid "Top categories place"
+#~ msgstr "مکان دسته بندی های بالا"
+
+#~ msgid "wp agahi"
+#~ msgstr "نیازمندی ها"
+
+#~ msgid "Wp Agahi"
+#~ msgstr "نیازمندی ها"
+
+#~ msgid "Add New"
+#~ msgstr "افزودن آگهی"
+
+#~ msgid "Add New Agahi"
+#~ msgstr "افزودن آگهی"
+
+#~ msgid "Edit Agahi"
+#~ msgstr "ویرایش آگهی"
+
+#~ msgid "New Agahi Items"
+#~ msgstr "آگهی های جدید"
+
+#~ msgid "All Agahi's"
+#~ msgstr "تمام آگهی ها"
+
+#~ msgid "View Agahi"
+#~ msgstr "نمایش آگهی"
+
+#~ msgid "Search Agahi"
+#~ msgstr "جستجوی آگهی"
+
+#~ msgid "No Agahi Items found"
+#~ msgstr "هیچ آگهی ای  یافت نشد"
+
+#~ msgid "No Agahi Items found in the Trash"
+#~ msgstr "هیچ آگهی ای در سطل زباله یافت نشد"
+
+#~ msgid "Agahi Categories"
+#~ msgstr "دسته های آگهی"
+
+#~ msgid "Agahi Category"
+#~ msgstr "دسته آگهی"
+
+#~ msgid "Search Agahi Categories"
+#~ msgstr "جستجوی دسته ها"
+
+#~ msgid "All Agahi Category"
+#~ msgstr "تمامی دسته ها"
+
+#~ msgid "Parent Agahi Category"
+#~ msgstr "دسته مادر"
+
+#~ msgid "Parent Agahi Category:"
+#~ msgstr "دسته مادر"
+
+#~ msgid "Edit Agahi Category"
+#~ msgstr "ویرایش دسته آگهی"
+
+#~ msgid "Update Agahi Category"
+#~ msgstr "به روزرسانی دسته آگهی"
+
+#~ msgid "Add New Agahi Category"
+#~ msgstr "افزودن دسته آگهی جدید"
+
+#~ msgid "New Agahi Category Name"
+#~ msgstr "نام دسته آگهی جدید"
+
+#~ msgid "Default Field"
+#~ msgstr "فیلد پیشفرض"
+
+#~ msgid "This is a default description."
+#~ msgstr "توضیحات فیلد پیشفرض"
+
+#~ msgid "User Panel"
+#~ msgstr "پنل کاربری"
+
+#~ msgid "Free Submit"
+#~ msgstr "ثبت آگهی رایگان"
+
+#~ msgid "your Yahoo ID:"
+#~ msgstr "شناسه یاهو:"
+
+#~ msgid "Fixed Cost(toman)"
+#~ msgstr "مقطوع(تومان)"
+
+#~ msgid "Fixed Cost"
+#~ msgstr "مقطوع"
+
+#~ msgid "for exchange"
+#~ msgstr "جهت معاوضه"
+
+#~ msgid "Ad Price:"
+#~ msgstr "قیمت"
+
+#~ msgid "Please fill needed fields"
+#~ msgstr "لطفا فیلدهای ضروری را وارد نمایید."
+
+#~ msgid "Ad name:"
+#~ msgstr "عنوان تبلیغ:"
+
+#~ msgid "I Want to buy this stuff"
+#~ msgstr "من میخوام این کالا را بخرم"
+
+#~ msgid "I wnat just comment"
+#~ msgstr "من فقط میخوام نظر خود را در مورد کالا ارسال کنم"
+
+#~ msgid "Enter Text & Enter.."
+#~ msgstr "مورد جستجو را وارد و اینتر بزنید..."
+
+#~ msgid "adder Email"
+#~ msgstr "ایمیل آگهی دهنده"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Radius1"
+#~ msgstr "انحنای 1"
+
+#~ msgid "Radius2"
+#~ msgstr "انحنای 2"
+
+#~ msgid "Float"
+#~ msgstr "شناور"
+
+#~ msgid "Shadow"
+#~ msgstr "سایه دار"
+
+#~ msgid "ADS widget"
+#~ msgstr "*ابزارک تبلیغات*"
+
+#~ msgid "A widget to display ads as widget"
+#~ msgstr "ابزارکی برای نمایش متنوع تبلیغات"
+
+#~ msgid "Ads"
+#~ msgstr "تبلیغات"
+
+#~ msgid "ads widget"
+#~ msgstr "*ابزارک تبلیغات*"
+
+#~ msgid "-Remove row"
+#~ msgstr "-حذف سطر"
+
+#~ msgid "Add Ads Here"
+#~ msgstr "تبلیغات را اینجا اضافه کنید"
+
+#~ msgid "+Add row"
+#~ msgstr "+افزودن سطر"
+
+#~ msgid "manipulate Settings here"
+#~ msgstr "تنظیمات را اینجا ویرایش کنید"
+
+#~ msgid "Save Settings"
+#~ msgstr "ذخیره تنظیمات"
+
+#~ msgid "Usage"
+#~ msgstr "استفاده"
+
+#~ msgid ""
+#~ "First you need add plugin widget to suitable place at your sidebar,then "
+#~ "you may come here and add ads or change settings,note that you can use "
+#~ "just one widget!<br>Please insert links with http://<br> for changing "
+#~ "order drag items vertically!"
+#~ msgstr ""
+#~ "ابتدا نیاز است که ابزارک پلاگین را در جای مناسبی از سایدبار قالبتان اضافه "
+#~ "کنید،سپس به اینجا آمده و تبلیغات را اضافه می کنید و یا تنظیمات را تغییر "
+#~ "می دهید.دقیت کنید که شما فقط یک ابزارک می توانید استفاده کنید.<br>لطفا "
+#~ "لینک را با http:// وارد کنید.<br>برای جابجایی اولویتها آیتمها را درگ کنید "
+#~ "و سپس ذخیره را بزنید."
+
+#~ msgid "ads"
+#~ msgstr "تبلیغات"
+
+#~ msgid "Add row"
+#~ msgstr "یک سطر اضافه کن"
+
+#~ msgid "settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "ads widget settings"
+#~ msgstr "**ابزارک تبلیغاتتنظیمات **"
+
+#~ msgid "Text ads"
+#~ msgstr "تبلیغات متنی"
+
+#~ msgid "+Whatchlist"
+#~ msgstr "+اضافه به لیست علاقه مندیها"
+
+#~ msgid "No Posts in list"
+#~ msgstr "موردی در لیست وجود ندارد."
+
+#~ msgid "myfavoritposts settings"
+#~ msgstr "تنظیمات لیست پستهای مورد علاقه"
+
+#~ msgid "settings saved successfully."
+#~ msgstr "تنظیمات با موفقیت ثبت شدند."
+
+#~ msgid "shortcode inserted page"
+#~ msgstr "صفحه حاوی کد کوتاه"
+
+#~ msgid "Enable auto add to posts?"
+#~ msgstr "اضافه شدن خودکار دکمه به پستها؟"
+
+#~ msgid "max user bookmark"
+#~ msgstr "حداکثر مقدار مجاز برای لیست علاقه مندیها"
+
+#~ msgid "save"
+#~ msgstr "ذخیره"
+
+#~ msgid "Here is codes for use:"
+#~ msgstr "کدهای مورد نیاز:"
+
+#~ msgid "shortcode for page"
+#~ msgstr "کدکوتاه برای برگه ها"
+
+#~ msgid "for inserting in theme code"
+#~ msgstr "کد برای گذاشتن در پوسته"
+
+#~ msgid "your wathlist has been reached,you can remove from list.."
+#~ msgstr "لیست شما پر شده است."
+
+#, fuzzy
+#~ msgid "Please login first."
+#~ msgstr "لطفا ابتدا وارد شوید."
+
+#~ msgid "page id"
+#~ msgstr "شماره صفحه"
+
+#, fuzzy
+#~ msgid "Max Bookmarks reached! try remove other one from list."
+#~ msgstr "لیست مورد علاقه شما پر شده است،می توانید بعضی ها رو پاک کنید."
